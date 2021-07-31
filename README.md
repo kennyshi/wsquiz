@@ -1,4 +1,4 @@
-# Websocket Quiz
+#  Websocket Quiz
 
 Realtime quiz client written in node.js and websockets. It is extremly simple to
 use and configure. Many people are joining to the same quiz and compete each
